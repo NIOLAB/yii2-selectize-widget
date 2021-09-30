@@ -9,6 +9,8 @@
 
 [Selectize](https://selectize.github.io/selectize.js/) is an extensible jQuery-based custom &lt;select&gt; UI control. It's useful for tagging, contact lists, country selectors, and so on. It clocks in at around ~7kb (gzipped). The goal is to provide a solid & usable experience with a clean and powerful API.
 
+This fork implements Bootstrap 4 support by downloading the Selectize js Code via CDN.
+
 ## Installation
 
 The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
