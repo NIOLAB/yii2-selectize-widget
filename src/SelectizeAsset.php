@@ -26,7 +26,7 @@ class SelectizeAsset extends AssetBundle
 		'https://cdnjs.cloudflare.com/ajax/libs/selectize.js/0.13.0/js/standalone/selectize.min.js ',
 	];
 	public $depends = [
-		'yii\bootstrap4\BootstrapAsset',
+		'yii\bootstrap5\BootstrapAsset',
 		'yii\web\JqueryAsset',
 	];
 }
